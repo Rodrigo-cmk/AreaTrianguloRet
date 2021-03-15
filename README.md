@@ -1,2 +1,2 @@
-# AreaTrianguloRet
-Cálculo da área de um triângulo retângulo, dados base (b) e altura (h).
+# AreaTrianguloRet 
+Cálculo da área de um triângulo retângulo, dado base (b) e altura (h).
